@@ -1,30 +1,39 @@
 [
 
     {
-        "question": "Pressure head is given by",
+        "question": "Solar constant is",
         "qid": 1,
-        "option_a": "$$ \\frac{p}{\\rho \\times g} + z $$",
-        "option_b": "$$ \\frac{p}{\\rho \\times g} + \\frac{v^2}{2 g} $$",
-        "option_c": "$$ \\frac{p}{\\rho \\times g} $$",
-        "option_d": "$$ z $$",
-        "correct_option": "c"
-    },
-    {
-        "question": "Velocity head is given by",
-        "qid": 2,
-        "option_a": "$$ \\frac{v^2}{2g} $$",
-        "option_b": "$$ \\frac{v^2}{2} $$",
-        "option_c": "$$ \\frac{v^2}{g} $$",  
-        "option_d": "$$ \\frac{v^2}{2g} + z $$",
+        "option_a": "$$ S_c \\cong 1360 \\ \\ W/m^2$$",
+        "option_b": "$$ S_c \\cong 1363 \\ \\ W/m^2$$",
+        "option_c": "$$ S_c \\cong 1360 \\ \\ W/m^3 $$",
+        "option_d": "$$ S_c \\cong 1363 \\ \\ W/m^3 $$",
         "correct_option": "a"
     },
     {
-        "question": "The direction of the flow is dictated by",
+        "question": "Emissive power of earth's surface is",
+        "qid": 2,
+        "option_a": "$$ e_{earth} = -\\sigma T^2 $$",
+        "option_b": "$$ e_{earth} = \\sigma T^2 $$",
+        "option_c": "$$ e_{earth} = -\\sigma T^4 $$",  
+        "option_d": "$$ e_{earth} = \\sigma T^4$$",
+        "correct_option": "d"
+    },
+    {
+        "question": "Atmospheric emission is ",
         "qid": 3,
-        "option_a": "Pressure head",
-        "option_b": "Velocity head",
-        "option_c": "Total head",
-        "option_d": "Potential head",
-        "correct_option": "c"
+        "option_a": "$$ G_{atm} = -\\sigma T_{sky}^4 $$",
+        "option_b": "$$ G_{atm} = \\sigma T_{sky}^4 $$",
+        "option_c": "$$ G_{atm} = -\\sigma T_{sky}^2 $$",
+        "option_d": "$$ G_{atm} = \\sigma T_{sky}^2 $$",
+        "correct_option": "b"
+    },
+    {
+        "question": "The sun temperature is assumed to be by Wein's displacement law is",
+        "qid": 4,
+        "option_a": "$$ 5800 \\ K $$",
+        "option_b": "$$ 5600 \\ K $$",
+        "option_c": "$$ 5300 \\ K $$",
+        "option_d": "$$ 5500 \\ K $$",
+        "correct_option": "a"
     }
 ]

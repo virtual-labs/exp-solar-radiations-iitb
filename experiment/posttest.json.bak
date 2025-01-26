@@ -1,21 +1,21 @@
 [
     {
-        "question": "Find the A<sub>2</sub>. Given that the cylindrical cavity is of diameter 11cm and depth of 10cm. Refer image in simulation. <br> $$ A_2 = \\frac{\\pi}{4} D^2 $$",
+        "question": "The radiation received by the earth's surface on a clear day with the sun overhead is 1.1 kw/m<sup>2</sup> and an additional 0.3 kw/m<sup>2</sup> is absorbed by the earth's atmosphere. Calculate area of the sun. <br> Given that <br> Diameter of sun (d<sub>s</sub>) = 1.39 x 10<sup>9</sup> m <br> Diameter of earth (d<sub>e</sub>) = 12.8 x 10d<sup>6</sup> m <br> Distance between sun and eath (L) = 1.5 x 10<sup>11</sup> m <br> Stefan Boltzmann Constant (&sigma;) = 5.67 x 10<sup>-8</sup> <br> Take &epsilon; = 1 for black body Sun is assumed as a black body.",
         "qid": 1,
-        "option_a": "88.541",
-        "option_b": " 95.033",
-        "option_c": "76.442",
-        "option_d": "55.32",
+        "option_a": "5.02",
+        "option_b": "6.06",
+        "option_c": "8.93",
+        "option_d": "10.32",
         "correct_option": "b"
     },
 
     {
-        "question": "Find the shape factor with respect to itself. Given that the cylindrical cavity is of diameter 11cm and depth of 10cm. Refer image in simulation. <br> $$ F<sub>1-1</sub> = 1 - \\frac{A_2}{A_1} $$",
+        "question": "The radiation received by the earth's surface on a clear day with the sun overhead is 1.1 kw/m<sup>2</sup> and an additional 0.3 kw/m<sup>2</sup> is absorbed by the earth's atmosphere. Calculate approximately energy radiated by the Sun. <br> Given that <br> Diameter of sun (d<sub>s</sub>) = 1.39 x 10<sup>9</sup> m <br> Diameter of earth (d<sub>e</sub>) = 12.8 x 10d<sup>6</sup> m <br> Distance between sun and eath (L) = 1.5 x 10<sup>11</sup> m <br> Stefan Boltzmann Constant (&sigma;) = 5.67 x 10<sup>-8</sup> <br> Take &epsilon; = 1 for black body Sun is assumed as a black body.",
         "qid": 1,
-        "option_a": "2.43",
-        "option_b": "1.234",
-        "option_c": "0.784",
-        "option_d": "0.324",
-        "correct_option": "c"
+        "option_a": "344161.69",
+        "option_b": "214161.21",
+        "option_c": "121415.09",
+        "option_d": "444161.88",
+        "correct_option": "a"
     }
 ]
