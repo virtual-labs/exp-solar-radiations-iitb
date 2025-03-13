@@ -1,1 +1,1 @@
-## Experiment name
+## Solar Radiations
