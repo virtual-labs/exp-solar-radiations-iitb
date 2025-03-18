@@ -1,0 +1,1 @@
+<h2> AIM: To study Solar Radiations. </h2>

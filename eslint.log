@@ -1,0 +1,261 @@
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/js/activity1.js
+   19:24   warning  'MathJax' is not defined                 no-undef
+   22:10   warning  'Verify_act1' is defined but never used  no-unused-vars
+   27:20   warning  'get_collapse_btn_text' is not defined   no-undef
+   32:101  warning  'a1_rad_received' is not defined         no-undef
+   32:155  warning  'a1_rad_absorbed' is not defined         no-undef
+   35:49   warning  'a1_ds' is not defined                   no-undef
+   36:51   warning  'a1_de' is not defined                   no-undef
+   37:51   warning  'a1_L' is not defined                    no-undef
+   57:5    warning  'hide_all_steps' is not defined          no-undef
+   58:24   warning  'show_step' is not defined               no-undef
+   59:24   warning  'MathJax' is not defined                 no-undef
+   62:10   warning  'sol1' is defined but never used         no-unused-vars
+   67:20   warning  'get_collapse_btn_text' is not defined   no-undef
+   95:5    warning  'a1_sun_area' is not defined             no-undef
+   95:44   warning  'a1_ds' is not defined                   no-undef
+   97:5    warning  'hide_all_steps' is not defined          no-undef
+   98:24   warning  'show_step' is not defined               no-undef
+   99:24   warning  'MathJax' is not defined                 no-undef
+  102:10   warning  'verify_sol1' is defined but never used  no-unused-vars
+  104:17   warning  'a1_sun_area' is not defined             no-undef
+  107:10   warning  'verify_values' is not defined           no-undef
+  107:48   warning  'a1_sun_area' is not defined             no-undef
+  113:25   warning  'a1_sun_area' is not defined             no-undef
+  119:20   warning  'get_collapse_btn_text' is not defined   no-undef
+  172:5    warning  'a1_inp1' is not defined                 no-undef
+  172:15   warning  'boltzmann_constant' is not defined      no-undef
+  172:44   warning  'a1_sun_area' is not defined             no-undef
+  173:5    warning  'a1_a' is not defined                    no-undef
+  173:37   warning  'a1_L' is not defined                    no-undef
+  174:5    warning  'a1_qsun_by_a' is not defined            no-undef
+  174:21   warning  'a1_epsilon' is not defined              no-undef
+  174:35   warning  'boltzmann_constant' is not defined      no-undef
+  174:57   warning  'a1_sun_area' is not defined             no-undef
+  174:72   warning  'a1_a' is not defined                    no-undef
+  176:5    warning  'hide_all_steps' is not defined          no-undef
+  177:24   warning  'show_step' is not defined               no-undef
+  178:24   warning  'MathJax' is not defined                 no-undef
+  180:10   warning  'verify_sol2' is defined but never used  no-unused-vars
+  182:17   warning  'a1_inp1' is not defined                 no-undef
+  182:26   warning  'a1_a' is not defined                    no-undef
+  182:32   warning  'a1_qsun_by_a' is not defined            no-undef
+  189:10   warning  'verify_values' is not defined           no-undef
+  189:48   warning  'a1_inp1' is not defined                 no-undef
+  193:10   warning  'verify_values' is not defined           no-undef
+  193:48   warning  'a1_a' is not defined                    no-undef
+  197:10   warning  'verify_values' is not defined           no-undef
+  197:48   warning  'a1_qsun_by_a' is not defined            no-undef
+  203:25   warning  'a1_inp1' is not defined                 no-undef
+  205:25   warning  'a1_a' is not defined                    no-undef
+  207:25   warning  'a1_qsun_by_a' is not defined            no-undef
+  213:20   warning  'get_collapse_btn_text' is not defined   no-undef
+  225:39   warning  'a1_rad_received' is not defined         no-undef
+  225:75   warning  'a1_rad_absorbed' is not defined         no-undef
+  266:5    warning  'a1_qearth' is not defined               no-undef
+  266:18   warning  'a1_rad_received' is not defined         no-undef
+  266:36   warning  'a1_rad_absorbed' is not defined         no-undef
+  267:5    warning  'a1_tsun' is not defined                 no-undef
+  267:25   warning  'a1_qearth' is not defined               no-undef
+  267:38   warning  'a1_qsun_by_a' is not defined            no-undef
+  269:5    warning  'hide_all_steps' is not defined          no-undef
+  270:24   warning  'show_step' is not defined               no-undef
+  271:24   warning  'MathJax' is not defined                 no-undef
+  273:10   warning  'verify_sol3' is defined but never used  no-unused-vars
+  275:17   warning  'a1_qearth' is not defined               no-undef
+  275:28   warning  'a1_tsun' is not defined                 no-undef
+  280:10   warning  'verify_values' is not defined           no-undef
+  280:48   warning  'a1_qearth' is not defined               no-undef
+  284:10   warning  'verify_values' is not defined           no-undef
+  284:48   warning  'a1_tsun' is not defined                 no-undef
+  290:25   warning  'a1_qearth' is not defined               no-undef
+  292:25   warning  'a1_tsun' is not defined                 no-undef
+  295:5    warning  'activity2' is not defined               no-undef
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/js/activity2.js
+    1:10   warning  'activity2' is defined but never used     no-unused-vars
+   17:5    warning  'maindiv' is not defined                  no-undef
+   18:24   warning  'MathJax' is not defined                  no-undef
+   21:10   warning  'Verify_act2' is defined but never used   no-unused-vars
+   26:20   warning  'get_collapse_btn_text' is not defined    no-undef
+   31:88   warning  'a2_solar_flux' is not defined            no-undef
+   31:152  warning  'a2_env_temp' is not defined              no-undef
+   31:186  warning  'a2_h' is not defined                     no-undef
+   35:51   warning  'a21_alpha' is not defined                no-undef
+   35:80   warning  'a21_epsilon' is not defined              no-undef
+   36:58   warning  'a22_alpha' is not defined                no-undef
+   36:87   warning  'a22_epsilon' is not defined              no-undef
+   39:48   warning  'a2_solar_flux' is not defined            no-undef
+   39:121  warning  'boltzmann_constant' is not defined       no-undef
+   51:5    warning  'maindiv' is not defined                  no-undef
+   52:5    warning  'hide_all_steps' is not defined           no-undef
+   53:24   warning  'show_step' is not defined                no-undef
+   54:24   warning  'MathJax' is not defined                  no-undef
+   57:10   warning  'a2_sol2' is defined but never used       no-unused-vars
+   58:20   warning  'get_collapse_btn_text' is not defined    no-undef
+   76:32   warning  'a2_env_temp' is not defined              no-undef
+  111:5    warning  'a_21_c' is not defined                   no-undef
+  111:15   warning  'a21_alpha' is not defined                no-undef
+  111:27   warning  'a2_solar_flux' is not defined            no-undef
+  111:45   warning  'a2_h' is not defined                     no-undef
+  111:52   warning  'a2_tf' is not defined                    no-undef
+  111:62   warning  'a21_epsilon' is not defined              no-undef
+  111:77   warning  'boltzmann_constant' is not defined       no-undef
+  111:108  warning  'a2_tf' is not defined                    no-undef
+  112:24   warning  'a_21_c' is not defined                   no-undef
+  115:14   warning  'a_21_c' is not defined                   no-undef
+  115:23   warning  'a21_epsilon' is not defined              no-undef
+  115:37   warning  'boltzmann_constant' is not defined       no-undef
+  115:76   warning  'a2_h' is not defined                     no-undef
+  118:5    warning  'a21_t' is not defined                    no-undef
+  119:5    warning  'maindiv' is not defined                  no-undef
+  120:5    warning  'hide_all_steps' is not defined           no-undef
+  121:24   warning  'show_step' is not defined                no-undef
+  122:24   warning  'MathJax' is not defined                  no-undef
+  124:10   warning  'verify2_sol2' is defined but never used  no-unused-vars
+  126:17   warning  'a_21_c' is not defined                   no-undef
+  126:25   warning  'a21_t' is not defined                    no-undef
+  130:9    warning  'sp2' is assigned a value but never used  no-unused-vars
+  131:10   warning  'verify_values' is not defined            no-undef
+  131:48   warning  'a_21_c' is not defined                   no-undef
+  135:10   warning  'verify_values' is not defined            no-undef
+  135:48   warning  'a21_t' is not defined                    no-undef
+  141:25   warning  'a_21_c' is not defined                   no-undef
+  143:25   warning  'a21_t' is not defined                    no-undef
+  149:20   warning  'get_collapse_btn_text' is not defined    no-undef
+  192:5    warning  'a_22_c' is not defined                   no-undef
+  192:15   warning  'a22_alpha' is not defined                no-undef
+  192:27   warning  'a2_solar_flux' is not defined            no-undef
+  192:45   warning  'a2_h' is not defined                     no-undef
+  192:52   warning  'a2_tf' is not defined                    no-undef
+  192:62   warning  'a22_epsilon' is not defined              no-undef
+  192:77   warning  'boltzmann_constant' is not defined       no-undef
+  192:108  warning  'a2_tf' is not defined                    no-undef
+  193:24   warning  'a_22_c' is not defined                   no-undef
+  196:15   warning  'a_22_c' is not defined                   no-undef
+  196:24   warning  'a22_epsilon' is not defined              no-undef
+  196:38   warning  'boltzmann_constant' is not defined       no-undef
+  196:78   warning  'a2_h' is not defined                     no-undef
+  199:5    warning  'a22_t' is not defined                    no-undef
+  200:5    warning  'maindiv' is not defined                  no-undef
+  201:5    warning  'hide_all_steps' is not defined           no-undef
+  202:24   warning  'show_step' is not defined                no-undef
+  203:24   warning  'MathJax' is not defined                  no-undef
+  205:10   warning  'verify2_sol3' is defined but never used  no-unused-vars
+  207:17   warning  'a_22_c' is not defined                   no-undef
+  207:25   warning  'a22_t' is not defined                    no-undef
+  212:10   warning  'verify_values' is not defined            no-undef
+  212:48   warning  'a_22_c' is not defined                   no-undef
+  216:10   warning  'verify_values' is not defined            no-undef
+  216:48   warning  'a22_t' is not defined                    no-undef
+  222:25   warning  'a_22_c' is not defined                   no-undef
+  224:25   warning  'a22_t' is not defined                    no-undef
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/js/data.js
+   3:5  warning  'a1_rad_received' is assigned a value but never used     no-unused-vars
+   4:5  warning  'a1_rad_absorbed' is assigned a value but never used     no-unused-vars
+   5:5  warning  'a1_ds' is assigned a value but never used               no-unused-vars
+   6:5  warning  'a1_de' is assigned a value but never used               no-unused-vars
+   7:5  warning  'a1_L' is assigned a value but never used                no-unused-vars
+   8:5  warning  'boltzmann_constant' is assigned a value but never used  no-unused-vars
+   9:5  warning  'a1_epsilon' is assigned a value but never used          no-unused-vars
+  10:5  warning  'a1_inp1' is assigned a value but never used             no-unused-vars
+  11:5  warning  'a1_sun_area' is assigned a value but never used         no-unused-vars
+  12:5  warning  'a1_a' is assigned a value but never used                no-unused-vars
+  13:5  warning  'a1_qsun_by_a' is assigned a value but never used        no-unused-vars
+  14:5  warning  'a1_qearth' is assigned a value but never used           no-unused-vars
+  15:5  warning  'a1_tsun' is assigned a value but never used             no-unused-vars
+  17:5  warning  'a2_solar_flux' is assigned a value but never used       no-unused-vars
+  19:5  warning  'a2_h' is assigned a value but never used                no-unused-vars
+  20:5  warning  'a21_alpha' is assigned a value but never used           no-unused-vars
+  21:5  warning  'a21_epsilon' is assigned a value but never used         no-unused-vars
+  22:5  warning  'a22_alpha' is assigned a value but never used           no-unused-vars
+  23:5  warning  'a22_epsilon' is assigned a value but never used         no-unused-vars
+  24:5  warning  'a2_tf' is assigned a value but never used               no-unused-vars
+  25:5  warning  'a_21_c' is assigned a value but never used              no-unused-vars
+  26:5  warning  'a21_t' is assigned a value but never used               no-unused-vars
+  27:5  warning  'a_22_c' is assigned a value but never used              no-unused-vars
+  28:5  warning  'a22_t' is assigned a value but never used               no-unused-vars
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/js/gauss_ele.js
+  42:10  warning  'gauss_ele' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-solar-radiations-iitb/exp-solar-radiations-iitb/experiment/simulation/js/trap.js
+   4:10  warning  'generate_data' is defined but never used  no-unused-vars
+  13:10  warning  'trap' is defined but never used           no-unused-vars
+  21:10  warning  'sim1by3' is defined but never used        no-unused-vars
+  29:10  warning  'sim3by8' is defined but never used        no-unused-vars
+
+✖ 230 problems (0 errors, 230 warnings)
+
